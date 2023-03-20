@@ -41,6 +41,13 @@ for i, observability in enumerate([False, True]):
             entry_point='ma_gym.envs.traffic_junction:TrafficJunction',
             kwargs={'full_observable': observability, 'n_max': num_max_cars}
         )
+    
+    for num_max_cars in [4, 10]:
+        register(
+            id='Airport{}-v'.format(num_max_cars) + str(i),
+            entry_point='ma_gym.envs.airport:Airport',
+            kwargs={'full_observable': observability, 'n_max': num_max_cars}
+        )
 
     register(
         id='Lumberjacks-v' + str(i),
