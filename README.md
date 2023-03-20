@@ -17,7 +17,8 @@ You can also run the environment with the default multi-agent backprop:
 
 ## Demo:
 
-https://user-images.githubusercontent.com/31167704/226219663-656b17c7-3db3-49b0-ac62-31e7d57ab47f.mp4
+https://user-images.githubusercontent.com/31167704/226219901-cc3be595-e004-4067-8a2c-b3f6fa41b86a.mp4
+
 
 ## Setup and Testing:
 
