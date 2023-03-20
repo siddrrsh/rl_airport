@@ -1,6 +1,8 @@
 # Multi-agent Airport RL
 
 ## Usage:
+You can run an existing multi-agent algorithm via weights and biases below.
+
 ``` python ma_gym/minimal-marl/idqn.py --env ma_gym:Airport4-v0 ```
 
 ``` python ma_gym/minimal-marl/qmix.py --env ma_gym:Airport4-v0 ```
@@ -9,9 +11,11 @@
 
 ``` python ma_gym/minimal-marl/maddpg.py --env ma_gym:Airport4-v0 ```
 
-``` # running environment with multi-agent backprop (default) ```
+You can also run the environment with the default multi-agent backprop:
 
 ``` python examples/random_agent.py --episodes 1000 --env Airport4-v0 ```
+
+
 
 ## Setup and Testing:
 
