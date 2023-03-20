@@ -3,13 +3,13 @@
 ## Usage:
 You can run an existing multi-agent algorithm via weights and biases below.
 
-``` python ma_gym/minimal-marl/idqn.py --env ma_gym:Airport4-v0 ```
+``` python minimal-marl/idqn.py --env ma_gym:Airport4-v0 ```
 
-``` python ma_gym/minimal-marl/qmix.py --env ma_gym:Airport4-v0 ```
+``` python minimal-marl/qmix.py --env ma_gym:Airport4-v0 ```
 
-``` python ma_gym/minimal-marl/vdn.py --env ma_gym:Airport4-v0 ```
+``` python minimal-marl/vdn.py --env ma_gym:Airport4-v0 ```
 
-``` python ma_gym/minimal-marl/maddpg.py --env ma_gym:Airport4-v0 ```
+``` python minimal-marl/maddpg.py --env ma_gym:Airport4-v0 ```
 
 You can also run the environment with the default multi-agent backprop:
 
