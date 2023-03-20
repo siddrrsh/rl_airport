@@ -1,0 +1,45 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.8.15",
+    "heartbeatAt": "2023-03-20T00:18:39.478990",
+    "startedAt": "2023-03-20T00:18:38.932495",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--env",
+        "ma_gym:Airport4-v0"
+    ],
+    "state": "running",
+    "program": "minimal-marl/idqn.py",
+    "codePath": "minimal-marl/idqn.py",
+    "git": {
+        "remote": "git@github.com:siddrrsh/rl_airport.git",
+        "commit": "761df07b5a12ec2f12427d712c641ae0b1fc400f"
+    },
+    "email": "siddrrsh@gmail.com",
+    "root": "/Users/siddharth/Downloads/ma-gym 2",
+    "host": "MacBook-Pro-108.local",
+    "username": "siddharth",
+    "executable": "/Users/siddharth/opt/anaconda3/envs/openai/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2400,
+        "min": 2400,
+        "max": 2400
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2400,
+            "min": 2400,
+            "max": 2400
+        }
+    ],
+    "disk": {
+        "total": 228.27386474609375,
+        "used": 14.270015716552734
+    },
+    "memory": {
+        "total": 8.0
+    }
+}

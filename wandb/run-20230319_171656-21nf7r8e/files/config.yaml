@@ -1,0 +1,64 @@
+wandb_version: 1
+
+_wandb:
+  desc: null
+  value:
+    cli_version: 0.14.0
+    framework: torch
+    is_jupyter_run: false
+    is_kaggle_kernel: false
+    python_version: 3.8.15
+    start_time: 1679271417.026114
+    t:
+      1:
+      - 1
+      - 55
+      3:
+      - 16
+      - 23
+      4: 3.8.15
+      5: 0.14.0
+      8:
+      - 5
+algo:
+  desc: null
+  value: idqn
+batch_size:
+  desc: null
+  value: 32
+buffer_limit:
+  desc: null
+  value: 50000
+env_name:
+  desc: null
+  value: ma_gym:Switch2-v1
+gamma:
+  desc: null
+  value: 0.99
+log_interval:
+  desc: null
+  value: 20
+lr:
+  desc: null
+  value: 0.0005
+max_episodes:
+  desc: null
+  value: 30000
+max_epsilon:
+  desc: null
+  value: 0.9
+min_epsilon:
+  desc: null
+  value: 0.1
+monitor:
+  desc: null
+  value: false
+test_episodes:
+  desc: null
+  value: 5
+update_iter:
+  desc: null
+  value: 10
+warm_up_steps:
+  desc: null
+  value: 2000

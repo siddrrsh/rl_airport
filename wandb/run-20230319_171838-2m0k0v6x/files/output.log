@@ -1,0 +1,156 @@
+/Users/siddharth/opt/anaconda3/envs/openai/lib/python3.8/site-packages/gym/logger.py:34: UserWarning: [33mWARN: Box bound precision lowered by casting to float32
+  warnings.warn(colorize("%s: %s" % ("WARN", msg % args), "yellow"))
+#20        /30000 episodes , avg train score : -9.4, test score: -10.0 n_buffer : 1050, eps : 0.9
+#40        /30000 episodes , avg train score : -9.0, test score: -10.0 n_buffer : 2050, eps : 0.9
+#60        /30000 episodes , avg train score : -8.7, test score: -10.0 n_buffer : 3045, eps : 0.9
+#80        /30000 episodes , avg train score : -8.3, test score: -10.0 n_buffer : 4035, eps : 0.9
+#100       /30000 episodes , avg train score : -7.4, test score: -10.0 n_buffer : 5023, eps : 0.9
+#120       /30000 episodes , avg train score : -7.5, test score: -10.0 n_buffer : 6023, eps : 0.9
+#140       /30000 episodes , avg train score : -7.8, test score: -10.0 n_buffer : 7023, eps : 0.9
+#160       /30000 episodes , avg train score : -7.7, test score: -10.0 n_buffer : 8023, eps : 0.9
+#180       /30000 episodes , avg train score : -6.9, test score: -0.6 n_buffer : 9016, eps : 0.9
+#200       /30000 episodes , avg train score : -5.1, test score: -10.0 n_buffer : 10014, eps : 0.9
+#220       /30000 episodes , avg train score : -7.1, test score: -10.0 n_buffer : 11014, eps : 0.9
+#240       /30000 episodes , avg train score : -7.2, test score: -10.0 n_buffer : 12014, eps : 0.9
+#260       /30000 episodes , avg train score : -7.2, test score: -10.0 n_buffer : 13012, eps : 0.9
+#280       /30000 episodes , avg train score : -8.4, test score: -10.0 n_buffer : 14009, eps : 0.9
+#300       /30000 episodes , avg train score : -6.7, test score: -10.0 n_buffer : 15006, eps : 0.9
+#320       /30000 episodes , avg train score : -6.9, test score: -10.0 n_buffer : 15998, eps : 0.9
+#340       /30000 episodes , avg train score : -7.5, test score: -10.0 n_buffer : 16987, eps : 0.9
+#360       /30000 episodes , avg train score : -5.2, test score: -10.0 n_buffer : 17970, eps : 0.9
+#380       /30000 episodes , avg train score : -6.8, test score: -10.0 n_buffer : 18964, eps : 0.9
+#400       /30000 episodes , avg train score : -7.5, test score: -10.0 n_buffer : 19964, eps : 0.9
+#420       /30000 episodes , avg train score : -6.2, test score: -10.0 n_buffer : 20951, eps : 0.9
+#440       /30000 episodes , avg train score : -7.7, test score: -10.0 n_buffer : 21950, eps : 0.9
+#460       /30000 episodes , avg train score : -6.3, test score: -10.0 n_buffer : 22929, eps : 0.9
+#480       /30000 episodes , avg train score : -6.3, test score: -10.0 n_buffer : 23919, eps : 0.9
+#500       /30000 episodes , avg train score : -5.7, test score: -10.0 n_buffer : 24905, eps : 0.9
+#520       /30000 episodes , avg train score : -6.2, test score: -10.0 n_buffer : 25890, eps : 0.9
+#540       /30000 episodes , avg train score : -7.6, test score: -10.0 n_buffer : 26871, eps : 0.9
+#560       /30000 episodes , avg train score : -7.3, test score: -10.0 n_buffer : 27866, eps : 0.9
+#580       /30000 episodes , avg train score : -7.0, test score: -10.0 n_buffer : 28865, eps : 0.9
+#600       /30000 episodes , avg train score : -8.1, test score: -10.0 n_buffer : 29865, eps : 0.9
+#620       /30000 episodes , avg train score : -6.5, test score: -10.0 n_buffer : 30851, eps : 0.9
+#640       /30000 episodes , avg train score : -5.7, test score: -10.0 n_buffer : 31840, eps : 0.9
+#660       /30000 episodes , avg train score : -6.2, test score: -10.0 n_buffer : 32827, eps : 0.9
+#680       /30000 episodes , avg train score : -5.9, test score: -10.0 n_buffer : 33805, eps : 0.9
+#700       /30000 episodes , avg train score : -5.6, test score: -10.0 n_buffer : 34773, eps : 0.9
+#720       /30000 episodes , avg train score : -7.7, test score: -10.0 n_buffer : 35773, eps : 0.9
+#740       /30000 episodes , avg train score : -7.9, test score: -10.0 n_buffer : 36773, eps : 0.9
+#760       /30000 episodes , avg train score : -8.4, test score: -10.0 n_buffer : 37773, eps : 0.8
+#780       /30000 episodes , avg train score : -8.6, test score: -10.0 n_buffer : 38773, eps : 0.8
+#800       /30000 episodes , avg train score : -7.7, test score: -10.0 n_buffer : 39773, eps : 0.8
+#820       /30000 episodes , avg train score : -6.8, test score: -10.0 n_buffer : 40768, eps : 0.8
+#840       /30000 episodes , avg train score : -7.5, test score: -10.0 n_buffer : 41768, eps : 0.8
+#860       /30000 episodes , avg train score : -6.7, test score: -10.0 n_buffer : 42768, eps : 0.8
+#880       /30000 episodes , avg train score : -8.1, test score: -10.0 n_buffer : 43768, eps : 0.8
+#900       /30000 episodes , avg train score : -7.7, test score: -10.0 n_buffer : 44750, eps : 0.8
+#920       /30000 episodes , avg train score : -7.2, test score: -10.0 n_buffer : 45750, eps : 0.8
+#940       /30000 episodes , avg train score : -7.7, test score: -10.0 n_buffer : 46738, eps : 0.8
+#960       /30000 episodes , avg train score : -7.3, test score: -10.0 n_buffer : 47738, eps : 0.8
+#980       /30000 episodes , avg train score : -7.3, test score: -10.0 n_buffer : 48738, eps : 0.8
+#1000      /30000 episodes , avg train score : -7.1, test score: -10.0 n_buffer : 49719, eps : 0.8
+#1020      /30000 episodes , avg train score : -6.0, test score: -10.0 n_buffer : 50000, eps : 0.8
+#1040      /30000 episodes , avg train score : -6.4, test score: -10.0 n_buffer : 50000, eps : 0.8
+#1060      /30000 episodes , avg train score : -5.7, test score: -10.0 n_buffer : 50000, eps : 0.8
+#1080      /30000 episodes , avg train score : -5.4, test score: -0.6 n_buffer : 50000, eps : 0.8
+#1100      /30000 episodes , avg train score : -4.7, test score: -10.0 n_buffer : 50000, eps : 0.8
+#1120      /30000 episodes , avg train score : -5.7, test score: -10.0 n_buffer : 50000, eps : 0.8
+#1140      /30000 episodes , avg train score : -4.8, test score: -10.0 n_buffer : 50000, eps : 0.8
+#1160      /30000 episodes , avg train score : -5.5, test score: -10.0 n_buffer : 50000, eps : 0.8
+#1180      /30000 episodes , avg train score : -4.9, test score: -10.0 n_buffer : 50000, eps : 0.8
+#1200      /30000 episodes , avg train score : -5.5, test score: -10.0 n_buffer : 50000, eps : 0.8
+#1220      /30000 episodes , avg train score : -4.2, test score: -10.0 n_buffer : 50000, eps : 0.8
+#1240      /30000 episodes , avg train score : -5.1, test score: -10.0 n_buffer : 50000, eps : 0.8
+#1260      /30000 episodes , avg train score : -5.3, test score: -10.0 n_buffer : 50000, eps : 0.8
+#1280      /30000 episodes , avg train score : -5.1, test score: -10.0 n_buffer : 50000, eps : 0.8
+#1300      /30000 episodes , avg train score : -4.9, test score: -10.0 n_buffer : 50000, eps : 0.8
+#1320      /30000 episodes , avg train score : -6.2, test score: -10.0 n_buffer : 50000, eps : 0.8
+#1340      /30000 episodes , avg train score : -5.3, test score: -10.0 n_buffer : 50000, eps : 0.8
+#1360      /30000 episodes , avg train score : -4.9, test score: -10.0 n_buffer : 50000, eps : 0.8
+#1380      /30000 episodes , avg train score : -4.4, test score: -10.0 n_buffer : 50000, eps : 0.8
+#1400      /30000 episodes , avg train score : -3.3, test score: -10.0 n_buffer : 50000, eps : 0.8
+#1420      /30000 episodes , avg train score : -4.4, test score: -10.0 n_buffer : 50000, eps : 0.8
+#1440      /30000 episodes , avg train score : -5.0, test score: -10.0 n_buffer : 50000, eps : 0.8
+#1460      /30000 episodes , avg train score : -5.1, test score: -10.0 n_buffer : 50000, eps : 0.8
+#1480      /30000 episodes , avg train score : -4.1, test score: -10.0 n_buffer : 50000, eps : 0.8
+#1500      /30000 episodes , avg train score : -5.6, test score: -10.0 n_buffer : 50000, eps : 0.8
+#1520      /30000 episodes , avg train score : -4.3, test score: -0.6 n_buffer : 50000, eps : 0.8
+#1540      /30000 episodes , avg train score : -4.7, test score: -0.7 n_buffer : 50000, eps : 0.8
+#1560      /30000 episodes , avg train score : -3.8, test score: -10.0 n_buffer : 50000, eps : 0.8
+#1580      /30000 episodes , avg train score : -3.9, test score: -10.0 n_buffer : 50000, eps : 0.8
+#1600      /30000 episodes , avg train score : -4.9, test score: -0.6 n_buffer : 50000, eps : 0.8
+#1620      /30000 episodes , avg train score : -6.2, test score: -10.0 n_buffer : 50000, eps : 0.8
+#1640      /30000 episodes , avg train score : -6.3, test score: -0.6 n_buffer : 50000, eps : 0.8
+#1660      /30000 episodes , avg train score : -4.2, test score: -0.6 n_buffer : 50000, eps : 0.8
+#1680      /30000 episodes , avg train score : -4.7, test score: -0.6 n_buffer : 50000, eps : 0.8
+#1700      /30000 episodes , avg train score : -4.1, test score: -0.6 n_buffer : 50000, eps : 0.8
+#1720      /30000 episodes , avg train score : -4.7, test score: -0.6 n_buffer : 50000, eps : 0.8
+#1740      /30000 episodes , avg train score : -3.3, test score: -0.6 n_buffer : 50000, eps : 0.8
+#1760      /30000 episodes , avg train score : -4.3, test score: -0.6 n_buffer : 50000, eps : 0.8
+#1780      /30000 episodes , avg train score : -5.1, test score: -0.6 n_buffer : 50000, eps : 0.8
+#1800      /30000 episodes , avg train score : -4.3, test score: -0.6 n_buffer : 50000, eps : 0.8
+#1820      /30000 episodes , avg train score : -5.7, test score: -0.6 n_buffer : 50000, eps : 0.8
+#1840      /30000 episodes , avg train score : -3.2, test score: -10.0 n_buffer : 50000, eps : 0.8
+#1860      /30000 episodes , avg train score : -4.2, test score: -10.0 n_buffer : 50000, eps : 0.8
+#1880      /30000 episodes , avg train score : -4.8, test score: -0.6 n_buffer : 50000, eps : 0.8
+#1900      /30000 episodes , avg train score : -4.1, test score: -10.0 n_buffer : 50000, eps : 0.8
+#1920      /30000 episodes , avg train score : -6.1, test score: -10.0 n_buffer : 50000, eps : 0.8
+#1940      /30000 episodes , avg train score : -5.3, test score: -10.0 n_buffer : 50000, eps : 0.8
+#1960      /30000 episodes , avg train score : -6.3, test score: -10.0 n_buffer : 50000, eps : 0.8
+#1980      /30000 episodes , avg train score : -5.0, test score: -10.0 n_buffer : 50000, eps : 0.8
+#2000      /30000 episodes , avg train score : -4.5, test score: -10.0 n_buffer : 50000, eps : 0.8
+#2020      /30000 episodes , avg train score : -6.4, test score: -0.6 n_buffer : 50000, eps : 0.8
+#2040      /30000 episodes , avg train score : -5.7, test score: -10.0 n_buffer : 50000, eps : 0.8
+#2060      /30000 episodes , avg train score : -5.5, test score: -10.0 n_buffer : 50000, eps : 0.8
+#2080      /30000 episodes , avg train score : -6.9, test score: -10.0 n_buffer : 50000, eps : 0.8
+#2100      /30000 episodes , avg train score : -5.2, test score: -10.0 n_buffer : 50000, eps : 0.8
+#2120      /30000 episodes , avg train score : -4.1, test score: -10.0 n_buffer : 50000, eps : 0.8
+#2140      /30000 episodes , avg train score : -4.4, test score: -0.6 n_buffer : 50000, eps : 0.8
+#2160      /30000 episodes , avg train score : -4.3, test score: -0.6 n_buffer : 50000, eps : 0.8
+#2180      /30000 episodes , avg train score : -5.5, test score: -10.0 n_buffer : 50000, eps : 0.8
+#2200      /30000 episodes , avg train score : -5.1, test score: -0.6 n_buffer : 50000, eps : 0.8
+#2220      /30000 episodes , avg train score : -4.9, test score: -0.6 n_buffer : 50000, eps : 0.8
+#2240      /30000 episodes , avg train score : -4.7, test score: -10.0 n_buffer : 50000, eps : 0.8
+#2260      /30000 episodes , avg train score : -3.4, test score: -0.6 n_buffer : 50000, eps : 0.7
+#2280      /30000 episodes , avg train score : -4.3, test score: -10.0 n_buffer : 50000, eps : 0.7
+#2300      /30000 episodes , avg train score : -2.4, test score: -10.0 n_buffer : 50000, eps : 0.7
+#2320      /30000 episodes , avg train score : -2.2, test score: -10.0 n_buffer : 50000, eps : 0.7
+#2340      /30000 episodes , avg train score : -3.2, test score: -10.0 n_buffer : 50000, eps : 0.7
+#2360      /30000 episodes , avg train score : -3.6, test score: -10.0 n_buffer : 50000, eps : 0.7
+#2380      /30000 episodes , avg train score : -3.5, test score: -10.0 n_buffer : 50000, eps : 0.7
+#2400      /30000 episodes , avg train score : -3.2, test score: -0.6 n_buffer : 50000, eps : 0.7
+#2420      /30000 episodes , avg train score : -2.4, test score: -10.0 n_buffer : 50000, eps : 0.7
+#2440      /30000 episodes , avg train score : -5.0, test score: -10.0 n_buffer : 50000, eps : 0.7
+#2460      /30000 episodes , avg train score : -4.8, test score: -10.0 n_buffer : 50000, eps : 0.7
+#2480      /30000 episodes , avg train score : -3.1, test score: -10.0 n_buffer : 50000, eps : 0.7
+#2500      /30000 episodes , avg train score : -2.9, test score: -10.0 n_buffer : 50000, eps : 0.7
+#2520      /30000 episodes , avg train score : -3.6, test score: -10.0 n_buffer : 50000, eps : 0.7
+#2540      /30000 episodes , avg train score : -3.3, test score: -0.7 n_buffer : 50000, eps : 0.7
+#2560      /30000 episodes , avg train score : -4.3, test score: -10.0 n_buffer : 50000, eps : 0.7
+#2580      /30000 episodes , avg train score : -3.5, test score: -10.0 n_buffer : 50000, eps : 0.7
+#2600      /30000 episodes , avg train score : -4.2, test score: -10.0 n_buffer : 50000, eps : 0.7
+#2620      /30000 episodes , avg train score : -1.8, test score: -10.0 n_buffer : 50000, eps : 0.7
+#2640      /30000 episodes , avg train score : -6.3, test score: -10.0 n_buffer : 50000, eps : 0.7
+#2660      /30000 episodes , avg train score : -2.8, test score: -10.0 n_buffer : 50000, eps : 0.7
+#2680      /30000 episodes , avg train score : -4.0, test score: -10.0 n_buffer : 50000, eps : 0.7
+#2700      /30000 episodes , avg train score : -3.7, test score: -10.0 n_buffer : 50000, eps : 0.7
+Traceback (most recent call last):
+  File "minimal-marl/idqn.py", line 163, in <module>
+    main(**kwargs)
+  File "minimal-marl/idqn.py", line 121, in main
+    action = q.sample_action(torch.Tensor(state).unsqueeze(0), epsilon)[0].data.cpu().numpy().tolist()
+  File "minimal-marl/idqn.py", line 64, in sample_action
+    out = self.forward(obs)
+  File "minimal-marl/idqn.py", line 59, in forward
+    q_values[agent_i] = getattr(self, 'agent_{}'.format(agent_i))(obs[:, agent_i, :]).unsqueeze(1)
+  File "/Users/siddharth/opt/anaconda3/envs/openai/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1194, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/Users/siddharth/opt/anaconda3/envs/openai/lib/python3.8/site-packages/torch/nn/modules/container.py", line 204, in forward
+    input = module(input)
+  File "/Users/siddharth/opt/anaconda3/envs/openai/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1194, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/Users/siddharth/opt/anaconda3/envs/openai/lib/python3.8/site-packages/torch/nn/modules/linear.py", line 114, in forward
+    return F.linear(input, self.weight, self.bias)
+KeyboardInterrupt
+#2720      /30000 episodes , avg train score : -1.3, test score: -10.0 n_buffer : 50000, eps : 0.7
