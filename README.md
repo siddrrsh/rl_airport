@@ -23,7 +23,6 @@ https://user-images.githubusercontent.com/31167704/226219663-656b17c7-3db3-49b0-
 
 - Install: ```pip install -e ".[test]" ```
 - Run: ```pytest```
-- 
 
 
 
